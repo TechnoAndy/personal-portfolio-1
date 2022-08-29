@@ -8,6 +8,10 @@
   background: #f7f3f3;
 }
 
+body{
+  margin: 0;
+}
+
 header {
   display: flex;
   padding: 40px 20px;
